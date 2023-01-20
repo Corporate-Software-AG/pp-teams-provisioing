@@ -17,8 +17,8 @@ on:
 
 env:
 #edit your values here
-  CLIENT_ID: 'b6b976f4-c435-4569-a66f-fa350e28eaa5'
-  TENANT_ID: '9a534261-1ed5-4176-908c-e7b6a448f191'
+  CLIENT_ID: '4ab9cbd9-1441-48f7-8d2a-5c6d85c96eea'
+  TENANT_ID: '2bbd7e41-02c9-4b4e-8168-339f900c4319'
   SOLUTION_EXPORTED_FOLDER: out/exported/
   SOLUTION_FOLDER: out/solutions/
   SOLUTION_TARGET_FOLDER: solutions/
